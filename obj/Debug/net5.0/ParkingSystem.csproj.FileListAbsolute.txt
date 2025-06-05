@@ -1,0 +1,16 @@
+C:\Users\Faqoy\Documents\ParkingSystem\bin\Debug\net5.0\ParkingSystem.exe
+C:\Users\Faqoy\Documents\ParkingSystem\bin\Debug\net5.0\ParkingSystem.deps.json
+C:\Users\Faqoy\Documents\ParkingSystem\bin\Debug\net5.0\ParkingSystem.runtimeconfig.json
+C:\Users\Faqoy\Documents\ParkingSystem\bin\Debug\net5.0\ParkingSystem.runtimeconfig.dev.json
+C:\Users\Faqoy\Documents\ParkingSystem\bin\Debug\net5.0\ParkingSystem.dll
+C:\Users\Faqoy\Documents\ParkingSystem\bin\Debug\net5.0\ref\ParkingSystem.dll
+C:\Users\Faqoy\Documents\ParkingSystem\bin\Debug\net5.0\ParkingSystem.pdb
+C:\Users\Faqoy\Documents\ParkingSystem\obj\Debug\net5.0\ParkingSystem.csproj.AssemblyReference.cache
+C:\Users\Faqoy\Documents\ParkingSystem\obj\Debug\net5.0\ParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faqoy\Documents\ParkingSystem\obj\Debug\net5.0\ParkingSystem.AssemblyInfoInputs.cache
+C:\Users\Faqoy\Documents\ParkingSystem\obj\Debug\net5.0\ParkingSystem.AssemblyInfo.cs
+C:\Users\Faqoy\Documents\ParkingSystem\obj\Debug\net5.0\ParkingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Faqoy\Documents\ParkingSystem\obj\Debug\net5.0\ParkingSystem.dll
+C:\Users\Faqoy\Documents\ParkingSystem\obj\Debug\net5.0\ref\ParkingSystem.dll
+C:\Users\Faqoy\Documents\ParkingSystem\obj\Debug\net5.0\ParkingSystem.pdb
+C:\Users\Faqoy\Documents\ParkingSystem\obj\Debug\net5.0\ParkingSystem.genruntimeconfig.cache
