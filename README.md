@@ -1,4 +1,4 @@
-# Parking System
+# Parking Management System (C# .NET Console App)
 
 A simple parking management system built using C# and .NET. This application simulates vehicle entry, parking slot management, and exit processes.
 
